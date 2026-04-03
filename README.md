@@ -42,8 +42,8 @@ The system follows a user-centric interactive workflow:
    - Compare AI vs user motion
    - Compute similarity score
 6. Result Visualization
- - Side-by-side playback
- - Display performance score
+   - Side-by-side playback
+   - Display performance score
 
 ## User Study Highlights
 - ✅ Users found the system intuitive and engaging
