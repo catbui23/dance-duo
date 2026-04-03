@@ -53,6 +53,10 @@ The system follows a user-centric interactive workflow:
     - Better UI guidance
     - Improved synchronization
 
+## Demo video
+
+[Watch full demo video](/video/danceduo_demo.mp4)
+
 ## Screenshots
 
 <p align="center">
